@@ -50,4 +50,4 @@ example
 
 ## Reference
 
-![https://nicothumb2img.vercel.app/image/sm41362383](https://nico.ms/sm41362383)
+[![sm41362383](https://nicothumb2img.vercel.app/image/sm41362383)](https://nico.ms/sm41362383)
